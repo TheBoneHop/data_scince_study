@@ -31,25 +31,34 @@
 
 
 ### Краткая информация о данных
-....
-  
+- [game_core_v1.py](https://github.com/TheBoneHop/data_scince_study/blob/main/project_0/game_core_v1.py) - Первая версия кода с максимально большим количеством попыток угадывания числа
+- [game_core_v2.py](https://github.com/TheBoneHop/data_scince_study/blob/main/project_0/game_core_v2.py) - Вторая улучшеная версия кода с меньшим количеством попыток угадывания числа
+- [game_core_v3.py](https://github.com/TheBoneHop/data_scince_study/blob/main/project_0/game_core_v3.py) - Третья улучшеная версия кода с количеством попыток угадывания числа менее 20
+- [game.ipynb](https://github.com/TheBoneHop/data_scince_study/blob/main/project_0/game.ipynb) - Блокнот с результатами работы всех 3-х версий кода
+- [score_game.py](https://github.com/TheBoneHop/data_scince_study/blob/main/project_0/score_game.py) - Код для расчета количества попыток угадывания числа
+- [requirements.txt](https://github.com/TheBoneHop/data_scince_study/blob/main/project_0/requirements.txt) - Все зафикисированные версии библиотек, использовавшихся в проекте
+
 [Вернуться к оглавлению](README.md#оглавление)
 
 
 ### Этапы работы над проектом  
-....
+1) Обдумывание решения задачи
+2) Обдумывая способов нахождения числа
+3) Написание кода 
+4) Отладка кода
+5) Создание документации
 
 [Вернуться к оглавлению](README.md#оглавление)
 
 
 ### Результаты:  
-....
+Создание программы, угадывающая загаданное число менее чем за 20 попыток
 
 [Вернуться к оглавлению](README.md#оглавление)
 
 
 ### Выводы:  
-....
+Решил задачу с использованием IDE. Научился работать в IDE и пользоваться платформой GitHub.
 
 [Вернуться к оглавлению](README.md#оглавление)
 

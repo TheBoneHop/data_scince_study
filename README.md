@@ -2,8 +2,6 @@
 Studying on SkillFactory 
 
 ## Проекты
-[Проект 0. Угадай число.](https://github.com/TheBoneHop/data_scince_study/blob/main/project_0)
-
-[Проект 1.]()
-
-[Проект 2.]()
+- [Проект 0. Угадай число.](https://github.com/TheBoneHop/data_scince_study/blob/main/project_0)
+- [Проект 1.]()
+- [Проект 2.]()
